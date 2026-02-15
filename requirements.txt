@@ -1,0 +1,10 @@
+flask
+firebase-admin
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+tensorflow
+Flask[async]
+statsmodels
